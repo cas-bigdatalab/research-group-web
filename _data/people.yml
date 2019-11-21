@@ -28,10 +28,6 @@
     image: /img/people/wenjuancui.png
     bio: 研究兴趣为数据挖掘、生物信息学
 
-常青玲:
-    display_name: "常青玲"
-    role: faculty
-    bio: 研究兴趣为数据挖掘
 
 #员工
 朱小杰:
@@ -48,7 +44,10 @@
     role: faculty
     bio: staff
 
-
+王露笛:
+    display_name: "王露笛"
+    role: faculty
+    bio: staff
 #学生
 吴章生:
     display_name: "吴章生"
@@ -104,8 +103,7 @@ Farah Deeba Memon:
     display_name: "Farah Deeba Memon"
     role: visiting_student
     bio: 2019年暑期访问
-
-
+    
 #TODO
 
 #毕业生
