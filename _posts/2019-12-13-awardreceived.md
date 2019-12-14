@@ -1,6 +1,6 @@
 ---
 layout: post
-shortnews: true
+title: "实验室乔子越、王寒雪组成的参赛团队获“智源-AMiner姓名排歧大赛”第一名。"
 icon: star-o
 ---
 
