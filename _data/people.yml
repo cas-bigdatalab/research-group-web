@@ -48,6 +48,7 @@
     display_name: "王露笛"
     role: faculty
     bio: staff
+    
 #学生
 吴章生:
     display_name: "吴章生"
@@ -149,18 +150,22 @@ Farah Deeba Memon:
 
 #合作者
 傅衍杰:
-    display_name: "傅衍杰"
+    display_name: "傅衍杰（中佛罗里达大学）"
     role: collab
 
 唐杰:
-    display_name: "唐杰"
+    display_name: "唐杰（清华大学）"
     role: collab
 
 朱勇:
-    display_name: "朱勇"
+    display_name: "朱勇（百度）"
     role: collab
 
 
 郑新章:
-    display_name: "郑新章"
+    display_name: "郑新章（郑州烟草研究院）"
+    role: collab
+
+郑新章:
+    display_name: "吴俊杰（北京航空航天大学）"
     role: collab
