@@ -5,12 +5,12 @@
     webpage: "http://www.escience.cn/people/zyc/index.html"
     image: /img/people/zyc.JPG
     role: faculty_leader
-    bio: 研究员，中科院网络信息中心主任助理，大数据部主任。研究方向为大数据与数据挖掘
+    bio: 研究员，中科院网络信息中心副主任，大数据部主任。研究方向为大数据与数据挖掘
 
 沈志宏:
     display_name: "沈志宏"
     role: faculty_leader
-    bio: 研究员，大数据部副主任。研究方向为大数据处理与分析技术
+    bio: 研究员，中科院网络信息中心大数据部副主任。研究方向为大数据处理与分析技术
     webpage: "https://bluejoe2008.github.io"
     image: /img/people/shenzhihong.jpg
 
@@ -22,14 +22,23 @@
     role: faculty
     bio: 副研究员,大数据知识工程实验室主任。研究兴趣为大规模时空数据可视分析、图数据挖掘（知识图谱）、人机交互技术
 
+王京:
+    display_name: "王京"
+    role: postdoc
+    bio: 2020年入站博士后
+
+石国赟:
+    display_name: "石国赟"
+    role: postdoc
+    bio: 2020年入站博士后
+
+#员工
 崔文娟:
     display_name: "崔文娟"
     role: faculty
     image: /img/people/wenjuancui.png
     bio: 研究兴趣为数据挖掘、生物信息学
 
-
-#员工
 朱小杰:
     display_name: "朱小杰"
     webpage: "https://judy0131.github.io"
@@ -91,7 +100,20 @@ Fayaz Ali:
     role: master_student
     bio: 2018级硕士研究生
 
+崔文韬:
+    display_name: "崔文韬"
+    role: master_student
+    bio: 2019级硕士研究生
 
+张鹏:
+    display_name: "张鹏"
+    role: master_student
+    bio: 2019级硕士研究生
+
+叶旭:
+    display_name: "叶旭"
+    role: master_student
+    bio: 2019级硕士研究生
 #访问、实习学生
 Farah Deeba Memon:
     display_name: "Farah Deeba Memon"
@@ -123,7 +145,8 @@ Farah Deeba Memon:
 熊辉:
     display_name: "熊辉"
     role: special_faculty
-    bio: "Rutgers University终身教授，大数据部首席咨询顾问"
+    bio: "Rutgers University终身教授"
+    #，大数据部首席咨询顾问
     webpage: "http://datamining.rutgers.edu/"
     image: /img/people/huixiong.png
 
