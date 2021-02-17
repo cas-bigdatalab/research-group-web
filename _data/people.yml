@@ -31,6 +31,11 @@
     display_name: "石国赟"
     role: postdoc
     bio: 2020年入站博士后
+    
+Farah Deeba Memon:
+    display_name: "Farah Deeba Memon"
+    role: postdoc
+    bio: 2021年入站博士后
 
 #员工
 崔文娟:
@@ -114,11 +119,7 @@ Fayaz Ali:
     display_name: "叶旭"
     role: master_student
     bio: 2019级硕士研究生
-#访问、实习学生
-Farah Deeba Memon:
-    display_name: "Farah Deeba Memon"
-    role: visiting_student
-    bio: 2019年暑期访问
+
     
 #TODO
 
