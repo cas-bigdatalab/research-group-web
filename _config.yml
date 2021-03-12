@@ -60,14 +60,14 @@ collections:
 # Navigation bar links.
 navigation:
   - title: 主页
-    link: /
+    link: 
   - title: 人员
-    link: /people.html
+    link: people.html
   - title: 项目
-    link: /research.html
+    link: research.html
   - title: 成果
-    link: /publications.html
+    link: publications.html
   - title: 代码
-    link: /code.html
+    link: code.html
  # - title: 合作
  #   link: /fund.html
